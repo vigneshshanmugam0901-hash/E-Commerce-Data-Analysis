@@ -1,4 +1,3 @@
-
 📌 Project Overview
 This project focuses on organizing, analyzing, and extracting actionable business insights from a raw, unstructured E-Commerce dataset. Utilizing advanced spreadsheet features, the pipeline transforms disorganized product metrics into a highly interactive, interactive analytical data tool. The workflow explicitly addresses common real-world data data challenges such as missing structural elements, data anomalies, and redundant data entries to drastically optimize metrics accessibility and visual reporting.
 
@@ -28,3 +27,4 @@ Formula Architecture: Built a fully automated, self-calculating framework requir
 Logic Validation: Enforced strict spreadsheet data validation and conditional constraints to guarantee entirely error-free reporting and downstream analysis.
 
 Logic Validation: Enforced strict data constraints to guarantee error-free reporting and analysis.
+
