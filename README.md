@@ -1,5 +1,4 @@
-# E-Commerce-Data-Analysis
-Cleaned and trimmed the data, analyzed the data,  creating the pivot tables and charts, Creating the dashboard
+
 📌 Project Overview
 This project focuses on organizing, analyzing, and extracting actionable business insights from a raw, unstructured E-Commerce dataset. Utilizing advanced spreadsheet features, the pipeline transforms disorganized product metrics into a highly interactive, interactive analytical data tool. The workflow explicitly addresses common real-world data data challenges such as missing structural elements, data anomalies, and redundant data entries to drastically optimize metrics accessibility and visual reporting.
 
